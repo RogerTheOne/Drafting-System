@@ -1,5 +1,5 @@
 # Drafting-System
-This is the system for nba player draft, users are able to add players from the player's library to the squad with restriction for different player's level.
+This is the system for nba player draft, users are able to display the team members, add players from the player's library to the squad and remove players with restriction for different player's level.
 
 # Restriction：
 1. You can't add players with below the level of  starter.
